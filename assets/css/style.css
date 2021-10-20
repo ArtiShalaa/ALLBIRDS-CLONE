@@ -59,7 +59,7 @@ header ul li a{
 
 .main-section{
     height: 100vh;
-    background-image: url("../1.jpg");
+    background-image: url("../img/1.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -164,13 +164,13 @@ header ul li a{
     cursor: pointer;
 }
 .favorites-section .card-preview--1{
-    background-image: url("../patika.jfif");
+    background-image: url("../img/patika.jfif");
 }
 .favorites-section .card-preview--2{
-    background-image: url("../patika2.jfif");
+    background-image: url("../img/patika2.jfif");
 }
 .favorites-section .card-preview--3{
-    background-image: url("../patika3.webp");
+    background-image: url("../img/patika3.webp");
 }
 .favorites-section .card-preview button{
     width: 80%;
@@ -207,7 +207,7 @@ header ul li a{
 
 .background-section{
     height: 540px;
-    background-image: url("../2.jpg");
+    background-image: url("../img/2.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -261,7 +261,7 @@ header ul li a{
 
 .collection-background__section{
     height: 450px;
-    background-image: url("../collage.webp");
+    background-image: url("../img/collage.webp");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
